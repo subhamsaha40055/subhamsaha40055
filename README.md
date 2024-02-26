@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100040980070263&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100040980070263&mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/subhamsaha40055?igsh=nxz3ahcxaxhvz3i2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/subhamsaha40055?igsh=nxz3ahcxaxhvz3i2" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100040980070263&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100040980070263&mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://www.instagram.com/subhamsaha40055?igsh=NXZ3aHcxaXhvZ3I2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/subhamsaha40055?igsh=nxz3ahcxaxhvz3i2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
